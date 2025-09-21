@@ -18,3 +18,4 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_VIRAL_APP_472520 }}
           channelId: live
           projectId: viral-app-472520
+          workingDirectory: web
